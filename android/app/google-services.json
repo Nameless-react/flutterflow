@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363667516179",
+    "project_id": "semana08-cb490",
+    "storage_bucket": "semana08-cb490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363667516179:android:f437b54980e48ec33088e6",
+        "android_client_info": {
+          "package_name": "com.jgarcia30275.semana08"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD77stwG9K_MrEy4A43pJaYDfoyblyyDrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
